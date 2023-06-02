@@ -1,12 +1,10 @@
-[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://rishavchanda.io)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Patrick Arganza</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-<img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align = "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patargz12&label=Profile%20views&color=0e75b6&style=flat" alt="patargz12" /> </p>
-
-<p align="left"> <a href="https://twitter.com/banzparganza" target="blank"><img src="https://img.shields.io/twitter/follow/banzparganza?logo=twitter&style=for-the-badge" alt="banzparganza" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack & Laravel**
 
@@ -17,9 +15,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/banzparganza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="banzparganza" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/patrick-arganza-816331173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patrick-arganza-816331173/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/patrick.arganza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/patrick.arganza/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/pat_argz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pat_argz/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/patrick-arganza-816331173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patrick-arganza-816331173/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/patrick.arganza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/patrick.arganza/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pat_argz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pat_argz/" height="30" width="40" /></a>
 <a href="https://discord.gg/Laudi#4475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Laudi#4475" height="30" width="40" /></a>
 </p>
 

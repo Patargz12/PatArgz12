@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patargz12&label=Profile%20views&color=0e75b6&style=flat" alt="patargz12" /> </p>
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 My expertise lies in **Software Engineering**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **arganzapatrick@gmail.com**
 

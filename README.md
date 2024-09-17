@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Patrick Arganza</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-<img align = "right" alt = "Coding" width = "400" src = "https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
+<img align = "right" alt = "Coding" width = "250" src = "https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patargz12&label=Profile%20views&color=0e75b6&style=flat" alt="patargz12" /> </p>
 

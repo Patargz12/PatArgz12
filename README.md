@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Patrick Arganza</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <img align = "right" alt = "Coding" width = "250" src = "https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
 

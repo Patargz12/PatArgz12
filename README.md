@@ -25,7 +25,7 @@ const patrick = {
 
 ## 🔥 **CODING STREAK MILESTONE** 🔥
 
-<div align="startr">
+<div align="center">
   <h3>🏆 Consistency is Key - My Development Journey 🏆</h3>
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=patargz12&theme=react&hide_border=true&border_radius=10&card_width=800&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF)](https://git.io/streak-stats)
@@ -41,7 +41,7 @@ const patrick = {
 
 ## 💻 Tech Arsenal
 
-<div align="center">
+<div align="start">
 
 ### 🎯 Frontend Development
 <p>

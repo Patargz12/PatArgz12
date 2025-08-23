@@ -1,12 +1,8 @@
-[![Header](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Patrick+Arganza;Software+Engineer;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </h1>
-
-<div align="center">
-  <img src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif" width="300" alt="Coding Animation"/>
-</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=patargz12&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
@@ -33,10 +29,30 @@ const patrick = {
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=patargz12&theme=react&hide_border=true&border_radius=10&card_width=800&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF)](https://git.io/streak-stats)
   
+  <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+    <div>
+      <h4 style="color: #FF6B35;">3,822</h4>
+      <p style="color: #C9D1D9;">Total Contributions</p>
+      <small style="color: #8B949E;">Mar 31, 2015 - Present</small>
+    </div>
+    <div>
+      <h4 style="color: #FFD700; background: linear-gradient(135deg, #FF6B35, #FFD700); border-radius: 50%; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: bold;">20</h4>
+      <p style="color: #FFD700; font-weight: bold;">Week Streak</p>
+      <small style="color: #8B949E;">Apr 6 - Aug 17</small>
+    </div>
+    <div>
+      <h4 style="color: #FF4444;">71</h4>
+      <p style="color: #C9D1D9;">Longest Week Streak</p>
+      <small style="color: #8B949E;">Sep 17, 2023 - Jan 19</small>
+    </div>
+  </div>
+  
   <p><em>"Every commit tells a story of growth and dedication"</em></p>
   
   <img src="https://img.shields.io/badge/Streak%20Goal-365%20Days-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Streak Goal"/>
   <img src="https://img.shields.io/badge/Daily%20Commits-Consistent-4CAF50?style=for-the-badge&logo=git&logoColor=white" alt="Daily Commits"/>
+  <img src="https://img.shields.io/badge/Week%20Streak-20%20Weeks-FFD700?style=for-the-badge&logo=calendar&logoColor=black" alt="Week Streak"/>
+  <img src="https://img.shields.io/badge/Longest%20Week%20Streak-71%20Weeks-FF4444?style=for-the-badge&logo=trophy&logoColor=white" alt="Longest Week Streak"/>
 </div>
 
 ---
@@ -48,11 +64,11 @@ const patrick = {
 ### 🎯 Frontend Development
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
@@ -78,6 +94,8 @@ const patrick = {
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
 </p>

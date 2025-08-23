@@ -29,30 +29,32 @@ const patrick = {
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=patargz12&theme=react&hide_border=true&border_radius=10&card_width=800&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF)](https://git.io/streak-stats)
   
-  <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-    <div>
-      <h4 style="color: #FF6B35;">3,822</h4>
-      <p style="color: #C9D1D9;">Total Contributions</p>
-      <small style="color: #8B949E;">Mar 31, 2015 - Present</small>
-    </div>
-    <div>
-      <h4 style="color: #FFD700; background: linear-gradient(135deg, #FF6B35, #FFD700); border-radius: 50%; padding: 20px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: bold;">20</h4>
-      <p style="color: #FFD700; font-weight: bold;">Week Streak</p>
-      <small style="color: #8B949E;">Apr 6 - Aug 17</small>
-    </div>
-    <div>
-      <h4 style="color: #FF4444;">71</h4>
-      <p style="color: #C9D1D9;">Longest Week Streak</p>
-      <small style="color: #8B949E;">Sep 17, 2023 - Jan 19</small>
-    </div>
+  <!-- Dynamic Week Streak Stats -->
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=patargz12&theme=react&hide_border=true&border_radius=10&background=0D1117&stroke=58A6FF&ring=FF6B35&fire=FFD700&currStreakNum=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&excludeDaysLabel=8B949E" alt="GitHub Week Streak Stats"/>
+  </div>
+  
+  <!-- Custom Streak Highlights -->
+  <div style="margin: 20px 0;">
+    <table align="center" style="border: none;">
+      <tr>
+        <td align="center" style="padding: 20px;">
+          <img src="https://img.shields.io/badge/dynamic/json?url=https://github-readme-streak-stats.herokuapp.com/demo/&query=$.totalContributions&label=Total%20Contributions&style=for-the-badge&logo=github&logoColor=white&color=FF6B35" alt="Total Contributions"/>
+        </td>
+        <td align="center" style="padding: 20px;">
+          <img src="https://img.shields.io/badge/dynamic/json?url=https://github-readme-streak-stats.herokuapp.com/demo/&query=$.currentStreak.length&label=Current%20Week%20Streak&style=for-the-badge&logo=fire&logoColor=white&color=FFD700" alt="Current Week Streak"/>
+        </td>
+        <td align="center" style="padding: 20px;">
+          <img src="https://img.shields.io/badge/dynamic/json?url=https://github-readme-streak-stats.herokuapp.com/demo/&query=$.longestStreak.length&label=Longest%20Week%20Streak&style=for-the-badge&logo=trophy&logoColor=white&color=FF4444" alt="Longest Week Streak"/>
+        </td>
+      </tr>
+    </table>
   </div>
   
   <p><em>"Every commit tells a story of growth and dedication"</em></p>
   
   <img src="https://img.shields.io/badge/Streak%20Goal-365%20Days-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Streak Goal"/>
   <img src="https://img.shields.io/badge/Daily%20Commits-Consistent-4CAF50?style=for-the-badge&logo=git&logoColor=white" alt="Daily Commits"/>
-  <img src="https://img.shields.io/badge/Week%20Streak-20%20Weeks-FFD700?style=for-the-badge&logo=calendar&logoColor=black" alt="Week Streak"/>
-  <img src="https://img.shields.io/badge/Longest%20Week%20Streak-71%20Weeks-FF4444?style=for-the-badge&logo=trophy&logoColor=white" alt="Longest Week Streak"/>
 </div>
 
 ---

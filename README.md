@@ -25,7 +25,7 @@ const patrick = {
 
 ## 🚀 Leetcode Badges
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" rel="noopener noreferrer">
@@ -45,12 +45,14 @@ const patrick = {
         <h5>Premium SQL 50</h5>
       </a>
     </td>
-    <td align="center">
-      <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" rel="noopener noreferrer">
-        <img src="https://assets.leetcode.com/static_assets/others/Dynamic_Programming_Grandmaster.png" alt="Dynamic Programming Grandmaster" width="80" /><br/>
-        <h5>Dynamic Programming Grandmaster</h5>
-      </a>
-    </td>
+<td align="center" valign="middle" style="text-align:center;">
+  <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" rel="noopener noreferrer" style="display:inline-block; text-decoration:none;">
+    <div style="display:flex; flex-direction:column; align-items:center;">
+      <img src="https://assets.leetcode.com/static_assets/others/Dynamic_Programming_Grandmaster.png" alt="Dynamic Programming Grandmaster" width="80" />
+      <h5 style="margin:26px 0 0 0; text-align:center;">Dynamic Programming<br/>Grandmaster</h5>
+    </div>
+  </a>
+</td>
     <td align="center">
       <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" rel="noopener noreferrer">
         <img src="https://assets.leetcode.com/static_assets/others/Graph_Theory.png" alt="Graph Theory" width="80" /><br/>

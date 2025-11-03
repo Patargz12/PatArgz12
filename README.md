@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/followers/patargz12?label=Followers&style=for-the-badge&color=58A6FF" alt="GitHub Followers" />
 </p>
 
-## 🚀 About Me
+
 
 ```javascript
 const patrick = {
@@ -22,6 +22,89 @@ const patrick = {
     funFact: "I debug with console.log and I'm proud of it! 🐛"
 };
 ```
+
+## 🚀 Leetcode Badges
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; width: 100%; max-width: 100%; margin-bottom: 16px;">
+  <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" style="flex: 1 1 calc(20% - 16px); text-align: center; text-decoration: none; color: inherit;">
+    <figure style="margin: 0;">
+      <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="100 Days Badge" style="width: 80%; max-width: 100px;"/>
+      <h5 style="margin: 8px 0 0; word-wrap: break-word;">100 Days Badge</h5>
+    </figure>
+  </a>
+
+  <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" style="flex: 1 1 calc(20% - 16px); text-align: center; text-decoration: none; color: inherit;">
+    <figure style="margin: 0;">
+      <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="50 Problems Badge" style="width: 80%; max-width: 100px;"/>
+      <h5 style="margin: 8px 0 0; word-wrap: break-word;">50 Problems Badge</h5>
+    </figure>
+  </a>
+
+  <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" style="flex: 1 1 calc(20% - 16px); text-align: center; text-decoration: none; color: inherit;">
+    <figure style="margin: 0;">
+      <img src="https://assets.leetcode.com/static_assets/others/Premium_SQL_50.png" alt="Premium SQL 50" style="width: 80%; max-width: 100px;"/>
+      <h5 style="margin: 8px 0 0; word-wrap: break-word;">Premium SQL 50</h5>
+    </figure>
+  </a>
+
+  <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" style="flex: 1 1 calc(20% - 16px); text-align: center; text-decoration: none; color: inherit;">
+    <figure style="margin: 0;">
+      <img src="https://assets.leetcode.com/static_assets/others/Dynamic_Programming_Grandmaster.png" alt="Dynamic Programming Grandmaster" style="width: 80%; max-width: 100px;"/>
+      <h5 style="margin: 8px 0 0; word-wrap: break-word;">Dynamic Programming Grandmaster</h5>
+    </figure>
+  </a>
+
+  <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" style="flex: 1 1 calc(20% - 16px); text-align: center; text-decoration: none; color: inherit;">
+    <figure style="margin: 0;">
+      <img src="https://assets.leetcode.com/static_assets/others/Graph_Theory.png" alt="Graph Theory" style="width: 80%; max-width: 100px;"/>
+      <h5 style="margin: 8px 0 0; word-wrap: break-word;">Graph Theory</h5>
+    </figure>
+  </a>
+
+  <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" style="flex: 1 1 calc(20% - 16px); text-align: center; text-decoration: none; color: inherit;">
+    <figure style="margin: 0;">
+      <img src="https://assets.leetcode.com/static_assets/others/Binary_Search.png" alt="Binary Search" style="width: 80%; max-width: 100px;"/>
+      <h5 style="margin: 8px 0 0; word-wrap: break-word;">Binary Search</h5>
+    </figure>
+  </a>
+
+  <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" style="flex: 1 1 calc(20% - 16px); text-align: center; text-decoration: none; color: inherit;">
+    <figure style="margin: 0;">
+      <img src="https://assets.leetcode.com/static_assets/others/Dynamic_Programming.png" alt="Dynamic Programming" style="width: 80%; max-width: 100px;"/>
+      <h5 style="margin: 8px 0 0; word-wrap: break-word;">Dynamic Programming</h5>
+    </figure>
+  </a>
+
+  <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" style="flex: 1 1 calc(20% - 16px); text-align: center; text-decoration: none; color: inherit;">
+    <figure style="margin: 0;">
+      <img src="https://assets.leetcode.com/static_assets/others/Programming_Skills.png" alt="Programming Skills" style="width: 80%; max-width: 100px;"/>
+      <h5 style="margin: 8px 0 0; word-wrap: break-word;">Programming Skills</h5>
+    </figure>
+  </a>
+
+  <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" style="flex: 1 1 calc(20% - 16px); text-align: center; text-decoration: none; color: inherit;">
+    <figure style="margin: 0;">
+      <img src="https://assets.leetcode.com/static_assets/others/%E9%9D%99%E6%80%81%E5%9B%BE.png" alt="Static Graph" style="width: 80%; max-width: 100px;"/>
+      <h5 style="margin: 8px 0 0; word-wrap: break-word;">Static Graph</h5>
+    </figure>
+  </a>
+
+  <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" style="flex: 1 1 calc(20% - 16px); text-align: center; text-decoration: none; color: inherit;">
+    <figure style="margin: 0;">
+      <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="Top SQL 50" style="width: 80%; max-width: 100px;"/>
+      <h5 style="margin: 8px 0 0; word-wrap: break-word;">Top SQL 50</h5>
+    </figure>
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
 
 ## 🔥 **CODING STREAK MILESTONE** 🔥
 

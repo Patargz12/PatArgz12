@@ -85,7 +85,7 @@ const patrick = {
     <td align="center">
       <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" rel="noopener noreferrer">
         <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="Top SQL 50" width="80" /><br/>
-        <h5>Top SQL 50<br/>&nbsp;</h5>
+        <h5>Top SQL 50<br/>&nbsp;-</h5>
       </a>
     </td>
   </tr>

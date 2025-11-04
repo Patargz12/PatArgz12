@@ -52,8 +52,8 @@ const patrick = {
     </td>
     <td align="center" width="180">
       <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;display:block;">
-        <img src="https://assets.leetcode.com/static_assets/others/Graph_Theory.png" alt="Graph Theory" width="80" />
-        <h5 style="margin:5px 0;cursor:pointer;">Graph Theory<br/>&nbsp;</h5>
+        <img src="https://assets.leetcode.com/static_assets/others/Binary_Search.png" alt="Binary Search" width="80" />
+        <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" rel="noopener noreferrer > <h5 style="margin:5px 0;cursor:pointer;">Binary Search<br/>&nbsp;</h5> </a>
       </a>
     </td>
   </tr>

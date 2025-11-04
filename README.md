@@ -23,7 +23,7 @@ const patrick = {
 };
 ```
 
-## 🚀 Leetcode Badges 🚀
+## 🏅 Leetcode Badges 
 <table align="center">
   <tr>
     <td align="center">

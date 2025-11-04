@@ -29,7 +29,7 @@ const patrick = {
     <td align="center">
       <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" rel="noopener noreferrer">
         <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="100 Days Badge" width="80" /><br/>
-        <h5>100 Days Badge<br/>&nbsp;</h5>
+        <h5>100 Days Badge<br/></h5>
       </a>
     </td>
     <td align="center">

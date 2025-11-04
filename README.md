@@ -35,13 +35,13 @@ const patrick = {
     <td align="center">
       <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" rel="noopener noreferrer">
         <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="50 Problems Badge" width="80" /><br/>
-        <h5>50 Problems Badge<br/>&nbsp;</h5>
+        <h5>50 Problems Badge<br/></h5>
       </a>
     </td>
     <td align="center">
       <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" rel="noopener noreferrer">
         <img src="https://assets.leetcode.com/static_assets/others/Premium_SQL_50.png" alt="Premium SQL 50" width="80" /><br/>
-        <h5>Premium SQL 50<br/>&nbsp;</h5>
+        <h5>Premium SQL 50<br/></h5>
       </a>
     </td>
     <td align="center">
@@ -53,7 +53,7 @@ const patrick = {
     <td align="center">
       <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" rel="noopener noreferrer">
         <img src="https://assets.leetcode.com/static_assets/others/Graph_Theory.png" alt="Graph Theory" width="80" /><br/>
-        <h5>Graph Theory<br/>&nbsp;</h5>
+        <h5>Graph Theory<br/></h5>
       </a>
     </td>
   </tr>
@@ -61,31 +61,31 @@ const patrick = {
     <td align="center">
       <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" rel="noopener noreferrer">
         <img src="https://assets.leetcode.com/static_assets/others/Binary_Search.png" alt="Binary Search" width="80" /><br/>
-        <h5>Binary Search<br/>&nbsp;</h5>
+        <h5>Binary Search<br/></h5>
       </a>
     </td>
     <td align="center">
       <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" rel="noopener noreferrer">
         <img src="https://assets.leetcode.com/static_assets/others/Dynamic_Programming.png" alt="Dynamic Programming" width="80" /><br/>
-        <h5>Dynamic Programming<br/>&nbsp;</h5>
+        <h5>Dynamic Programming<br/></h5>
       </a>
     </td>
     <td align="center">
       <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" rel="noopener noreferrer">
         <img src="https://assets.leetcode.com/static_assets/others/Programming_Skills.png" alt="Programming Skills" width="80" /><br/>
-        <h5>Programming Skills<br/>&nbsp;</h5>
+        <h5>Programming Skills<br/></h5>
       </a>
     </td>
     <td align="center">
       <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" rel="noopener noreferrer">
         <img src="https://assets.leetcode.com/static_assets/others/%E9%9D%99%E6%80%81%E5%9B%BE.png" alt="Static Graph" width="80" /><br/>
-        <h5>Static Graph<br/>&nbsp;</h5>
+        <h5>Static Graph<br/></h5>
       </a>
     </td>
     <td align="center">
       <a href="https://leetcode.com/u/vt3Yo4HDkF/" target="_blank" rel="noopener noreferrer">
         <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="Top SQL 50" width="80" /><br/>
-        <h5>Top SQL 50<br/>&nbsp;</h5>
+        <h5>Top SQL 50<br/></h5>
       </a>
     </td>
   </tr>

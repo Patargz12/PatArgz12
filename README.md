@@ -24,6 +24,7 @@ const patrick = {
 ```
 
 ## 🏅 Leetcode Badges 
+ <h5 style="margin-top: 8px;">100 Days Badge<br/>&nbsp;</h5>
 <table align="center">
   <tr>
     <td align="center">
@@ -90,10 +91,6 @@ const patrick = {
     </td>
   </tr>
 </table>
-
-
-
-
 
 
 

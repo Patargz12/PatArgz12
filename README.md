@@ -23,7 +23,8 @@ const patrick = {
 };
 ```
 
-🏆 Achievements
+
+## 🏆 Achievements
 <p align="start">
   <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/930/137/datas/fe7da55a06691d0a0fa2fb2f32d9d352_medium_bronze.png" alt="Devpost Level 1 Hackathon Winner" width="150" align="left" />
   <br/>

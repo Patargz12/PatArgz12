@@ -24,19 +24,14 @@ const patrick = {
 ```
 
 🏆 Achievements
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 40px; max-width: 800px; margin: 0 auto;">
-    <div style="flex-shrink: 0;">
-      <a href="https://devpost.com/" target="_blank">
-        <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/930/137/datas/fe7da55a06691d0a0fa2fb2f32d9d352_medium_bronze.png" alt="Devpost Level 1 Hackathon Winner" width="150"/>
-      </a>
-    </div>
-    <div style="text-align: left; flex: 1;">
-      <h3 style="margin-top: 0;">🥉 Devpost Level 1 Hackathon Winner</h3>
-      <p>Recognized for innovative problem-solving and technical excellence in competitive hackathon environment. This achievement demonstrates my ability to rapidly prototype solutions, collaborate effectively under pressure, and deliver impactful projects within tight deadlines.</p>
-    </div>
-  </div>
-</div>
+<p align="start">
+  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/930/137/datas/fe7da55a06691d0a0fa2fb2f32d9d352_medium_bronze.png" alt="Devpost Level 1 Hackathon Winner" width="150" align="left" />
+  <br/>
+  <strong>🥉 Devpost Level 1 Hackathon Winner</strong>
+  
+Built a Retrieval-Augmented Generation (RAG) system for a video game that delivers context-aware responses using a custom dataset, enhancing player interactions through intelligent information retrieval.
+  <br clear="left"/>
+</p>
 
 ## 🏅 Leetcode Badges 
 <table align="center">

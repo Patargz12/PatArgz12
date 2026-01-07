@@ -26,23 +26,19 @@ const patrick = {
 
 ## 🏆 Achievements
 <p align="start">
-  <a href="https://devpost.com/arganzapatrick/achievements" target="_blank">
-    <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/930/137/datas/fe7da55a06691d0a0fa2fb2f32d9d352_medium_bronze.png" 
-         alt="Devpost Level 1 Hackathon Winner" 
-         width="150" 
-         align="left" />
-  </a>
+  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/930/137/datas/fe7da55a06691d0a0fa2fb2f32d9d352_medium_bronze.png"
+       alt="Devpost Level 1 Hackathon Winner"
+       width="150"
+       align="left" />
   <br/>
-  <strong>🥉 Devpost Level 1 Hackathon Winner</strong><br/>
-  <em>
-    <a href="https://devpost.com/arganzapatrick/achievements" target="_blank">
-      View full Devpost achievements
-    </a>
-  </em>
+  <strong>🥉 Devpost Level 1 Hackathon Winner</strong>
   <br/><br/>
   Built a Retrieval-Augmented Generation (RAG) system for a video game that delivers context-aware responses using a custom dataset, enhancing player interactions through intelligent information retrieval.
+  <br/><br/>
+  🔗 <a href="https://devpost.com/arganzapatrick/achievements" target="_blank">View my Devpost achievements</a>
   <br clear="left"/>
 </p>
+
 
 ## 🏅 Leetcode Badges 
 <table align="center">
@@ -177,7 +173,6 @@ const patrick = {
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
 </p>
 
-### 🛠️ Tools & Technologies
 ### 🛠️ Tools & Technologies
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>

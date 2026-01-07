@@ -26,11 +26,21 @@ const patrick = {
 
 ## 🏆 Achievements
 <p align="start">
-  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/930/137/datas/fe7da55a06691d0a0fa2fb2f32d9d352_medium_bronze.png" alt="Devpost Level 1 Hackathon Winner" width="150" align="left" />
+  <a href="https://devpost.com/arganzapatrick/achievements" target="_blank">
+    <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/930/137/datas/fe7da55a06691d0a0fa2fb2f32d9d352_medium_bronze.png" 
+         alt="Devpost Level 1 Hackathon Winner" 
+         width="150" 
+         align="left" />
+  </a>
   <br/>
-  <strong>🥉 Devpost Level 1 Hackathon Winner</strong>
-  
-Built a Retrieval-Augmented Generation (RAG) system for a video game that delivers context-aware responses using a custom dataset, enhancing player interactions through intelligent information retrieval.
+  <strong>🥉 Devpost Level 1 Hackathon Winner</strong><br/>
+  <em>
+    <a href="https://devpost.com/arganzapatrick/achievements" target="_blank">
+      View full Devpost achievements
+    </a>
+  </em>
+  <br/><br/>
+  Built a Retrieval-Augmented Generation (RAG) system for a video game that delivers context-aware responses using a custom dataset, enhancing player interactions through intelligent information retrieval.
   <br clear="left"/>
 </p>
 

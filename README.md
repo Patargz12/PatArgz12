@@ -34,7 +34,6 @@ const patrick = {
   <strong>🥉 Devpost Level 1 Hackathon Winner</strong>
   <br/><br/>
   Built a Retrieval-Augmented Generation (RAG) system for a video game that delivers context-aware responses using a custom dataset, enhancing player interactions through intelligent information retrieval.
-  <br/><br/>
   🔗 <a href="https://devpost.com/arganzapatrick/achievements" target="_blank">View my Devpost achievements</a>
   <br clear="left"/>
 </p>

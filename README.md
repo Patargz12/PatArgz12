@@ -35,7 +35,7 @@ const patrick = {
   <br/><br/>
   Built a Retrieval-Augmented Generation (RAG) system for a video game that delivers context-aware responses using a custom dataset, enhancing player interactions through intelligent information retrieval.
   <br/>
-  🔗 <a href="https://devpost.com/arganzapatrick/achievements" target="_blank">View my Devpost achievements</a>
+  <a href="https://devpost.com/arganzapatrick/achievements" target="_blank">View my Devpost achievements</a>
   <br clear="left"/>
 </p>
 

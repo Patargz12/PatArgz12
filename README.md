@@ -115,15 +115,16 @@ const patrick = {
 
 <div align="center">
   <h3>🏆 Consistency is Key - My Development Journey 🏆</h3>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
 
-  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Patargz12&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
+  </a>
+
   <p><em>"Every commit tells a story of growth and dedication"</em></p>
-  
-  <img src="https://img.shields.io/badge/Streak%20Goal-365%20Days-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Streak Goal"/>
-  <img src="https://img.shields.io/badge/Daily%20Commits-Consistent-4CAF50?style=for-the-badge&logo=git&logoColor=white" alt="Daily Commits"/>
-  <img src="https://img.shields.io/badge/Code%20Quality-High-9C27B0?style=for-the-badge&logo=codacy&logoColor=white" alt="Code Quality"/>
+
+  <img src="https://img.shields.io/badge/Streak%20Goal-365%20Days-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Daily%20Commits-Consistent-4CAF50?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code%20Quality-High-9C27B0?style=for-the-badge&logo=codacy&logoColor=white" />
 </div>
 
 ---

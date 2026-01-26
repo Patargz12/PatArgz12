@@ -118,6 +118,11 @@ const patrick = {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Patargz12&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Patargz12&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Patargz12&amp;theme=dark&amp;date_format=M%20j%5B%2C%20Y%5D&amp;mode=weekly" alt="GitHub Streak" />
+</a>
 
   <p><em>"Every commit tells a story of growth and dedication"</em></p>
 

@@ -116,7 +116,7 @@ const patrick = {
 <div align="center">
   <h3>🏆 Consistency is Key - My Development Journey 🏆</h3>
   
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Patargz12&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
 
   
   <p><em>"Every commit tells a story of growth and dedication"</em></p>
